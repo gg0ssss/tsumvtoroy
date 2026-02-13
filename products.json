@@ -234,14 +234,14 @@
     "price": "365 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM382165": {
-    "title": "Товар",
-    "price": "923 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM382166": {
     "title": "Товар",
     "price": "690 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM382165": {
+    "title": "Товар",
+    "price": "923 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM382160": {
@@ -264,16 +264,6 @@
     "price": "120 000 ₽\n89 950 ₽\n -25%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM340226": {
-    "title": "Товар",
-    "price": "120 000 ₽\n89 950 ₽\n -25%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM351627": {
-    "title": "Товар",
-    "price": "192 500 ₽\n65 000 ₽\n -66%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM359435": {
     "title": "Товар",
     "price": "799 000 ₽",
@@ -287,6 +277,11 @@
   "https://collect.tsum.ru/item/ITEM374967": {
     "title": "Товар",
     "price": "748 000 ₽\n539 500 ₽\n -28%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM340226": {
+    "title": "Товар",
+    "price": "120 000 ₽\n89 950 ₽\n -25%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM382148": {
@@ -399,21 +394,6 @@
     "price": "3 210 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM382053": {
-    "title": "Товар",
-    "price": "2 995 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM382040": {
-    "title": "Товар",
-    "price": "250 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM382041": {
-    "title": "Товар",
-    "price": "155 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM382045": {
     "title": "Товар",
     "price": "2 970 000 ₽",
@@ -434,19 +414,34 @@
     "price": "1 145 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM382037": {
+  "https://collect.tsum.ru/item/ITEM382053": {
     "title": "Товар",
-    "price": "3 430 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM382024": {
-    "title": "Товар",
-    "price": "3 430 000 ₽",
+    "price": "2 995 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM382028": {
     "title": "Товар",
     "price": "3 500 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM382037": {
+    "title": "Товар",
+    "price": "3 430 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM382040": {
+    "title": "Товар",
+    "price": "250 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM382041": {
+    "title": "Товар",
+    "price": "155 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM382024": {
+    "title": "Товар",
+    "price": "3 430 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM360695": {
@@ -529,14 +524,14 @@
     "price": "1 100 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM381909": {
-    "title": "Товар",
-    "price": "495 000 ₽\n354 000 ₽\n -28%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM381922": {
     "title": "Товар",
     "price": "3 500 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM381909": {
+    "title": "Товар",
+    "price": "495 000 ₽\n354 000 ₽\n -28%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM381886": {
@@ -574,9 +569,9 @@
     "price": "431 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM381825": {
+  "https://collect.tsum.ru/item/ITEM381828": {
     "title": "Товар",
-    "price": "399 500 ₽",
+    "price": "1 100 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM381842": {
@@ -594,9 +589,9 @@
     "price": "323 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM381828": {
+  "https://collect.tsum.ru/item/ITEM381825": {
     "title": "Товар",
-    "price": "1 100 000 ₽",
+    "price": "399 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM381712": {
@@ -649,14 +644,14 @@
     "price": "349 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM381692": {
-    "title": "Товар",
-    "price": "3 200 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM381700": {
     "title": "Товар",
     "price": "3 550 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM381705": {
+    "title": "Товар",
+    "price": "246 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM381679": {
@@ -669,24 +664,24 @@
     "price": "2 890 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM381681": {
+    "title": "Товар",
+    "price": "799 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM381684": {
     "title": "Товар",
     "price": "3 310 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM381692": {
+    "title": "Товар",
+    "price": "3 200 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM381673": {
     "title": "Товар",
     "price": "899 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM381705": {
-    "title": "Товар",
-    "price": "246 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM381681": {
-    "title": "Товар",
-    "price": "799 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM336924": {
@@ -724,14 +719,14 @@
     "price": "522 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM381611": {
-    "title": "Товар",
-    "price": "661 500 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM381595": {
     "title": "Товар",
     "price": "370 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM381611": {
+    "title": "Товар",
+    "price": "661 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM381579": {
@@ -789,11 +784,6 @@
     "price": "230 500 ₽\n148 000 ₽\n -36%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM335460": {
-    "title": "Товар",
-    "price": "221 500 ₽\n117 500 ₽\n -47%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM335462": {
     "title": "Товар",
     "price": "120 000 ₽\n65 050 ₽\n -46%",
@@ -824,14 +814,14 @@
     "price": "746 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM370326": {
-    "title": "Товар",
-    "price": "94 500 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM374397": {
     "title": "Товар",
     "price": "387 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM335460": {
+    "title": "Товар",
+    "price": "221 500 ₽\n117 500 ₽\n -47%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM381565": {
@@ -862,11 +852,6 @@
   "https://collect.tsum.ru/item/ITEM212580": {
     "title": "Товар",
     "price": "272 000 ₽\n210 500 ₽\n -23%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM238223": {
-    "title": "Товар",
-    "price": "309 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM321919": {
@@ -1064,11 +1049,6 @@
     "price": "995 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM381503": {
-    "title": "Товар",
-    "price": "2 995 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM381504": {
     "title": "Товар",
     "price": "470 000 ₽",
@@ -1082,6 +1062,11 @@
   "https://collect.tsum.ru/item/ITEM381509": {
     "title": "Товар",
     "price": "550 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM381503": {
+    "title": "Товар",
+    "price": "2 995 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM381512": {
@@ -1304,14 +1289,14 @@
     "price": "770 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM381315": {
-    "title": "Товар",
-    "price": "253 000 ₽\n184 500 ₽\n -27%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM381330": {
     "title": "Товар",
     "price": "1 095 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM381315": {
+    "title": "Товар",
+    "price": "253 000 ₽\n184 500 ₽\n -27%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM381272": {
@@ -1469,11 +1454,6 @@
     "price": "118 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM381017": {
-    "title": "Товар",
-    "price": "297 000 ₽\n275 000 ₽\n -7%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM381020": {
     "title": "Товар",
     "price": "198 000 ₽\n185 000 ₽\n -7%",
@@ -1492,6 +1472,11 @@
   "https://collect.tsum.ru/item/ITEM381016": {
     "title": "Товар",
     "price": "399 500 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM381017": {
+    "title": "Товар",
+    "price": "297 000 ₽\n275 000 ₽\n -7%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM309542": {
@@ -1579,6 +1564,11 @@
     "price": "2 973 500 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM356255": {
+    "title": "Товар",
+    "price": "4 614 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM361920": {
     "title": "Товар",
     "price": "4 614 500 ₽",
@@ -1629,16 +1619,6 @@
     "price": "4 614 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM356255": {
-    "title": "Товар",
-    "price": "4 614 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM380951": {
-    "title": "Товар",
-    "price": "1 800 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM380961": {
     "title": "Товар",
     "price": "3 350 000 ₽",
@@ -1647,6 +1627,11 @@
   "https://collect.tsum.ru/item/ITEM380947": {
     "title": "Товар",
     "price": "218 000 ₽\n167 000 ₽\n -23%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380951": {
+    "title": "Товар",
+    "price": "1 800 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380900": {
@@ -1709,24 +1694,14 @@
     "price": "376 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380773": {
-    "title": "Товар",
-    "price": "399 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM380775": {
-    "title": "Товар",
-    "price": "383 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM380776": {
-    "title": "Товар",
-    "price": "349 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM380779": {
     "title": "Товар",
     "price": "2 995 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380780": {
+    "title": "Товар",
+    "price": "2 850 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380787": {
@@ -1744,19 +1719,24 @@
     "price": "899 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380780": {
-    "title": "Товар",
-    "price": "2 850 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM380717": {
+  "https://collect.tsum.ru/item/ITEM380773": {
     "title": "Товар",
     "price": "399 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380718": {
+  "https://collect.tsum.ru/item/ITEM380775": {
     "title": "Товар",
-    "price": "250 000 ₽",
+    "price": "383 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380776": {
+    "title": "Товар",
+    "price": "349 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380750": {
+    "title": "Товар",
+    "price": "1 215 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380730": {
@@ -1769,19 +1749,19 @@
     "price": "3 350 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380750": {
-    "title": "Товар",
-    "price": "1 215 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM380710": {
     "title": "Товар",
     "price": "1 450 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380686": {
+  "https://collect.tsum.ru/item/ITEM380717": {
     "title": "Товар",
-    "price": "699 500 ₽",
+    "price": "399 500 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380718": {
+    "title": "Товар",
+    "price": "250 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380671": {
@@ -1802,6 +1782,11 @@
   "https://collect.tsum.ru/item/ITEM380678": {
     "title": "Товар",
     "price": "690 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380686": {
+    "title": "Товар",
+    "price": "699 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM191938": {
@@ -1839,19 +1824,14 @@
     "price": "298 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380619": {
-    "title": "Товар",
-    "price": "660 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM380626": {
     "title": "Товар",
     "price": "995 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380602": {
+  "https://collect.tsum.ru/item/ITEM380619": {
     "title": "Товар",
-    "price": "3 470 000 ₽",
+    "price": "660 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380590": {
@@ -1877,6 +1857,11 @@
   "https://collect.tsum.ru/item/ITEM380597": {
     "title": "Товар",
     "price": "254 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380602": {
+    "title": "Товар",
+    "price": "3 470 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380581": {
@@ -2009,16 +1994,6 @@
     "price": "342 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380442": {
-    "title": "Товар",
-    "price": "1 230 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM380444": {
-    "title": "Товар",
-    "price": "670 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM380447": {
     "title": "Товар",
     "price": "140 000 ₽",
@@ -2027,6 +2002,11 @@
   "https://collect.tsum.ru/item/ITEM380449": {
     "title": "Товар",
     "price": "119 990 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380450": {
+    "title": "Товар",
+    "price": "1 595 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380423": {
@@ -2044,9 +2024,9 @@
     "price": "538 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380450": {
+  "https://collect.tsum.ru/item/ITEM380442": {
     "title": "Товар",
-    "price": "1 595 000 ₽",
+    "price": "1 230 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380391": {
@@ -2174,6 +2154,11 @@
     "price": "170 500 ₽\n150 000 ₽\n -12%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM380248": {
+    "title": "Товар",
+    "price": "947 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM380249": {
     "title": "Товар",
     "price": "352 000 ₽\n220 000 ₽\n -38%",
@@ -2182,16 +2167,6 @@
   "https://collect.tsum.ru/item/ITEM380250": {
     "title": "Товар",
     "price": "575 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM380230": {
-    "title": "Товар",
-    "price": "215 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM380231": {
-    "title": "Товар",
-    "price": "328 000 ₽\n299 500 ₽\n -9%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380237": {
@@ -2204,14 +2179,19 @@
     "price": "737 000 ₽\n692 500 ₽\n -6%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380248": {
-    "title": "Товар",
-    "price": "947 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM380228": {
     "title": "Товар",
     "price": "374 000 ₽\n350 000 ₽\n -6%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380230": {
+    "title": "Товар",
+    "price": "215 500 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380231": {
+    "title": "Товар",
+    "price": "328 000 ₽\n299 500 ₽\n -9%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380223": {
@@ -2254,11 +2234,6 @@
     "price": "349 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380213": {
-    "title": "Товар",
-    "price": "150 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM380205": {
     "title": "Товар",
     "price": "3 385 000 ₽",
@@ -2267,6 +2242,11 @@
   "https://collect.tsum.ru/item/ITEM380206": {
     "title": "Товар",
     "price": "340 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380213": {
+    "title": "Товар",
+    "price": "150 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380187": {
@@ -2474,11 +2454,6 @@
     "price": "399 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380020": {
-    "title": "Товар",
-    "price": "287 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM380034": {
     "title": "Товар",
     "price": "995 000 ₽",
@@ -2492,6 +2467,11 @@
   "https://collect.tsum.ru/item/ITEM380018": {
     "title": "Товар",
     "price": "1 695 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380020": {
+    "title": "Товар",
+    "price": "287 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380009": {
@@ -2509,11 +2489,6 @@
     "price": "285 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM379992": {
-    "title": "Товар",
-    "price": "245 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM379993": {
     "title": "Товар",
     "price": "269 000 ₽",
@@ -2522,6 +2497,11 @@
   "https://collect.tsum.ru/item/ITEM379991": {
     "title": "Товар",
     "price": "297 000 ₽\n199 500 ₽\n -33%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM379992": {
+    "title": "Товар",
+    "price": "245 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM345966": {
@@ -2577,11 +2557,6 @@
   "https://collect.tsum.ru/item/ITEM379971": {
     "title": "Товар",
     "price": "135 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM379950": {
-    "title": "Товар",
-    "price": "1 550 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM335493": {
@@ -2642,11 +2617,6 @@
   "https://collect.tsum.ru/item/ITEM275721": {
     "title": "Товар",
     "price": "246 500 ₽\n89 950 ₽\n -64%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM373785": {
-    "title": "Товар",
-    "price": "399 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM375330": {
@@ -2879,16 +2849,6 @@
     "price": "255 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM379574": {
-    "title": "Товар",
-    "price": "3 310 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM379546": {
-    "title": "Товар",
-    "price": "770 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM379548": {
     "title": "Товар",
     "price": "3 430 000 ₽",
@@ -2909,9 +2869,19 @@
     "price": "399 500 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM379574": {
+    "title": "Товар",
+    "price": "3 310 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM379540": {
     "title": "Товар",
     "price": "343 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM379546": {
+    "title": "Товар",
+    "price": "770 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM368094": {
@@ -3114,14 +3084,9 @@
     "price": "429 000 ₽\n299 000 ₽\n -30%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM379386": {
+  "https://collect.tsum.ru/item/ITEM379390": {
     "title": "Товар",
-    "price": "620 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM379389": {
-    "title": "Товар",
-    "price": "132 000 ₽\n89 950 ₽\n -32%",
+    "price": "599 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM379397": {
@@ -3134,9 +3099,14 @@
     "price": "2 450 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM379390": {
+  "https://collect.tsum.ru/item/ITEM379386": {
     "title": "Товар",
-    "price": "599 500 ₽",
+    "price": "620 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM379389": {
+    "title": "Товар",
+    "price": "132 000 ₽\n89 950 ₽\n -32%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM379373": {
@@ -3254,11 +3224,6 @@
     "price": "631 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM379318": {
-    "title": "Товар",
-    "price": "1 550 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM379287": {
     "title": "Товар",
     "price": "384 000 ₽",
@@ -3282,6 +3247,11 @@
   "https://collect.tsum.ru/item/ITEM379301": {
     "title": "Товар",
     "price": "396 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM379318": {
+    "title": "Товар",
+    "price": "1 550 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM379272": {
@@ -3309,6 +3279,11 @@
     "price": "222 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM379278": {
+    "title": "Товар",
+    "price": "620 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM379279": {
     "title": "Товар",
     "price": "440 000 ₽",
@@ -3319,24 +3294,19 @@
     "price": "218 000 ₽\n198 000 ₽\n -9%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM379278": {
-    "title": "Товар",
-    "price": "620 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM379257": {
     "title": "Товар",
     "price": "399 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM379252": {
-    "title": "Товар",
-    "price": "599 500 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM379260": {
     "title": "Товар",
     "price": "690 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM379252": {
+    "title": "Товар",
+    "price": "599 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM379247": {
@@ -3434,21 +3404,6 @@
     "price": "380 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM379187": {
-    "title": "Товар",
-    "price": "554 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM379190": {
-    "title": "Товар",
-    "price": "350 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM379191": {
-    "title": "Товар",
-    "price": "350 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM379195": {
     "title": "Товар",
     "price": "3 430 000 ₽",
@@ -3479,9 +3434,19 @@
     "price": "287 500 ₽\n245 000 ₽\n -15%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM379137": {
+  "https://collect.tsum.ru/item/ITEM379187": {
     "title": "Товар",
-    "price": "341 000 ₽\n246 500 ₽\n -28%",
+    "price": "554 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM379190": {
+    "title": "Товар",
+    "price": "350 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM379191": {
+    "title": "Товар",
+    "price": "350 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM379161": {
@@ -3494,9 +3459,9 @@
     "price": "430 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM379083": {
+  "https://collect.tsum.ru/item/ITEM379137": {
     "title": "Товар",
-    "price": "350 000 ₽",
+    "price": "341 000 ₽\n246 500 ₽\n -28%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM379072": {
@@ -3507,6 +3472,11 @@
   "https://collect.tsum.ru/item/ITEM379078": {
     "title": "Товар",
     "price": "1 550 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM379083": {
+    "title": "Товар",
+    "price": "350 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM324381": {
@@ -3539,11 +3509,6 @@
     "price": "250 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM379039": {
-    "title": "Товар",
-    "price": "620 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM379052": {
     "title": "Товар",
     "price": "130 000 ₽",
@@ -3569,6 +3534,11 @@
     "price": "10 329 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM379039": {
+    "title": "Товар",
+    "price": "620 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM378992": {
     "title": "Товар",
     "price": "176 000 ₽\n150 000 ₽\n -15%",
@@ -3579,14 +3549,14 @@
     "price": "122 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM378921": {
-    "title": "Товар",
-    "price": "1 145 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM378943": {
     "title": "Товар",
     "price": "418 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM378921": {
+    "title": "Товар",
+    "price": "1 145 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM378891": {
@@ -3659,14 +3629,19 @@
     "price": "1 710 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM378887": {
+  "https://collect.tsum.ru/item/ITEM378137": {
     "title": "Товар",
-    "price": "599 500 ₽\n499 500 ₽\n -17%",
+    "price": "1 845 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM378881": {
     "title": "Товар",
     "price": "3 550 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM378887": {
+    "title": "Товар",
+    "price": "599 500 ₽\n499 500 ₽\n -17%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM378810": {
@@ -3689,6 +3664,11 @@
     "price": "231 000 ₽\n199 000 ₽\n -14%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM378737": {
+    "title": "Товар",
+    "price": "420 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM378745": {
     "title": "Товар",
     "price": "599 500 ₽",
@@ -3707,11 +3687,6 @@
   "https://collect.tsum.ru/item/ITEM378751": {
     "title": "Товар",
     "price": "360 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM378737": {
-    "title": "Товар",
-    "price": "420 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM378700": {
@@ -3774,6 +3749,11 @@
     "price": "310 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM93929": {
+    "title": "Товар",
+    "price": "181 000 ₽\n142 500 ₽\n -21%",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM265814": {
     "title": "Товар",
     "price": "183 500 ₽\n99 500 ₽\n -46%",
@@ -3782,11 +3762,6 @@
   "https://collect.tsum.ru/item/ITEM371061": {
     "title": "Товар",
     "price": "164 000 ₽\n131 500 ₽\n -20%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM93929": {
-    "title": "Товар",
-    "price": "181 000 ₽\n142 500 ₽\n -21%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM378621": {
@@ -3834,6 +3809,11 @@
     "price": "1 030 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM378548": {
+    "title": "Товар",
+    "price": "1 135 000 ₽\n1 055 000 ₽\n -7%",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM378516": {
     "title": "Товар",
     "price": "540 000 ₽",
@@ -3844,24 +3824,9 @@
     "price": "130 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM378548": {
-    "title": "Товар",
-    "price": "1 135 000 ₽\n1 055 000 ₽\n -7%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM378461": {
     "title": "Товар",
     "price": "362 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM378450": {
-    "title": "Товар",
-    "price": "435 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM378451": {
-    "title": "Товар",
-    "price": "350 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM378453": {
@@ -3874,6 +3839,21 @@
     "price": "410 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM378450": {
+    "title": "Товар",
+    "price": "435 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM378451": {
+    "title": "Товар",
+    "price": "350 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM378404": {
+    "title": "Товар",
+    "price": "595 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM378412": {
     "title": "Товар",
     "price": "225 000 ₽",
@@ -3882,11 +3862,6 @@
   "https://collect.tsum.ru/item/ITEM378414": {
     "title": "Товар",
     "price": "994 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM378404": {
-    "title": "Товар",
-    "price": "595 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM303867": {
@@ -4054,11 +4029,6 @@
     "price": "299 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM371941": {
-    "title": "Товар",
-    "price": "589 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM372091": {
     "title": "Товар",
     "price": "1 615 000 ₽",
@@ -4094,16 +4064,6 @@
     "price": "1 995 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM378313": {
-    "title": "Товар",
-    "price": "150 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM378292": {
-    "title": "Товар",
-    "price": "335 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM378304": {
     "title": "Товар",
     "price": "575 000 ₽",
@@ -4114,14 +4074,24 @@
     "price": "566 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM378273": {
+  "https://collect.tsum.ru/item/ITEM378313": {
     "title": "Товар",
-    "price": "3 200 000 ₽",
+    "price": "150 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM378276": {
     "title": "Товар",
     "price": "360 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM378292": {
+    "title": "Товар",
+    "price": "335 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM378273": {
+    "title": "Товар",
+    "price": "3 200 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM378209": {
@@ -4164,29 +4134,19 @@
     "price": "138 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM378131": {
-    "title": "Товар",
-    "price": "385 000 ₽\n340 000 ₽\n -12%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM378121": {
     "title": "Товар",
     "price": "1 350 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM378131": {
+    "title": "Товар",
+    "price": "385 000 ₽\n340 000 ₽\n -12%",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM378042": {
     "title": "Товар",
     "price": "584 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM378039": {
-    "title": "Товар",
-    "price": "132 000 ₽\n120 000 ₽\n -9%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM378041": {
-    "title": "Товар",
-    "price": "169 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM378036": {
@@ -4197,6 +4157,16 @@
   "https://collect.tsum.ru/item/ITEM378037": {
     "title": "Товар",
     "price": "166 000 ₽\n130 000 ₽\n -22%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM378039": {
+    "title": "Товар",
+    "price": "132 000 ₽\n120 000 ₽\n -9%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM378041": {
+    "title": "Товар",
+    "price": "169 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM178313": {
@@ -4229,6 +4199,11 @@
     "price": "759 500 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM378012": {
+    "title": "Товар",
+    "price": "1 150 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM378013": {
     "title": "Товар",
     "price": "3 430 000 ₽",
@@ -4239,9 +4214,14 @@
     "price": "625 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM377989": {
+  "https://collect.tsum.ru/item/ITEM377994": {
     "title": "Товар",
-    "price": "145 000 ₽",
+    "price": "390 500 ₽\n299 500 ₽\n -23%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM378002": {
+    "title": "Товар",
+    "price": "760 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377960": {
@@ -4259,14 +4239,14 @@
     "price": "1 195 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM378002": {
+  "https://collect.tsum.ru/item/ITEM377989": {
     "title": "Товар",
-    "price": "760 000 ₽",
+    "price": "145 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM378012": {
+  "https://collect.tsum.ru/item/ITEM377991": {
     "title": "Товар",
-    "price": "1 150 000 ₽",
+    "price": "230 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377950": {
@@ -4282,16 +4262,6 @@
   "https://collect.tsum.ru/item/ITEM377953": {
     "title": "Товар",
     "price": "450 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377991": {
-    "title": "Товар",
-    "price": "230 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377994": {
-    "title": "Товар",
-    "price": "390 500 ₽\n299 500 ₽\n -23%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377941": {
@@ -4324,6 +4294,21 @@
     "price": "375 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM377842": {
+    "title": "Товар",
+    "price": "398 500 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM377844": {
+    "title": "Товар",
+    "price": "369 500 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM377846": {
+    "title": "Товар",
+    "price": "299 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM377849": {
     "title": "Товар",
     "price": "325 000 ₽",
@@ -4342,26 +4327,6 @@
   "https://collect.tsum.ru/item/ITEM377854": {
     "title": "Товар",
     "price": "360 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377842": {
-    "title": "Товар",
-    "price": "398 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377844": {
-    "title": "Товар",
-    "price": "369 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377846": {
-    "title": "Товар",
-    "price": "299 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377809": {
-    "title": "Товар",
-    "price": "399 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377812": {
@@ -4387,6 +4352,11 @@
   "https://collect.tsum.ru/item/ITEM377807": {
     "title": "Товар",
     "price": "699 500 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM377809": {
+    "title": "Товар",
+    "price": "399 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM347730": {
@@ -4439,14 +4409,14 @@
     "price": "266 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM363948": {
-    "title": "Товар",
-    "price": "799 500 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM361140": {
     "title": "Товар",
     "price": "418 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM363948": {
+    "title": "Товар",
+    "price": "799 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377730": {
@@ -4479,9 +4449,19 @@
     "price": "329 000 ₽\n196 650 ₽\n -40%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM221552": {
+    "title": "Товар",
+    "price": "89 950 ₽\n58 684 ₽\n -35%",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM221563": {
     "title": "Товар",
     "price": "89 950 ₽\n52 812 ₽\n -41%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM223763": {
+    "title": "Товар",
+    "price": "78 450 ₽\n53 460 ₽\n -32%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM223765": {
@@ -4505,6 +4485,11 @@
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM223799": {
+    "title": "Товар",
+    "price": "78 450 ₽\n59 130 ₽\n -25%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM223812": {
     "title": "Товар",
     "price": "78 450 ₽\n59 130 ₽\n -25%",
     "in_stock": true
@@ -4567,11 +4552,6 @@
   "https://collect.tsum.ru/item/ITEM269194": {
     "title": "Товар",
     "price": "82 900 ₽\n50 949 ₽\n -39%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM291066": {
-    "title": "Товар",
-    "price": "613 500 ₽\n473 000 ₽\n -23%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM294801": {
@@ -4679,21 +4659,6 @@
     "price": "125 500 ₽\n79 950 ₽\n -36%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM221552": {
-    "title": "Товар",
-    "price": "89 950 ₽\n58 684 ₽\n -35%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM223763": {
-    "title": "Товар",
-    "price": "78 450 ₽\n53 460 ₽\n -32%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM223812": {
-    "title": "Товар",
-    "price": "78 450 ₽\n59 130 ₽\n -25%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM339956": {
     "title": "Товар",
     "price": "148 000 ₽",
@@ -4764,6 +4729,16 @@
     "price": "288 500 ₽\n207 500 ₽\n -28%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM377449": {
+    "title": "Товар",
+    "price": "207 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM377450": {
+    "title": "Товар",
+    "price": "218 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM377451": {
     "title": "Товар",
     "price": "1 450 000 ₽",
@@ -4777,16 +4752,6 @@
   "https://collect.tsum.ru/item/ITEM377444": {
     "title": "Товар",
     "price": "218 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377449": {
-    "title": "Товар",
-    "price": "207 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377450": {
-    "title": "Товар",
-    "price": "218 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377405": {
@@ -4804,6 +4769,16 @@
     "price": "650 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM377315": {
+    "title": "Товар",
+    "price": "499 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM377316": {
+    "title": "Товар",
+    "price": "250 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM377317": {
     "title": "Товар",
     "price": "250 000 ₽",
@@ -4815,16 +4790,6 @@
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377319": {
-    "title": "Товар",
-    "price": "250 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377315": {
-    "title": "Товар",
-    "price": "499 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377316": {
     "title": "Товар",
     "price": "250 000 ₽",
     "in_stock": true
@@ -4844,11 +4809,6 @@
     "price": "379 500 ₽\n273 000 ₽\n -28%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM276017": {
-    "title": "Товар",
-    "price": "699 500 ₽\n570 000 ₽\n -19%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM293593": {
     "title": "Товар",
     "price": "82 900 ₽\n56 050 ₽\n -32%",
@@ -4862,6 +4822,11 @@
   "https://collect.tsum.ru/item/ITEM340426": {
     "title": "Товар",
     "price": "126 000 ₽\n85 050 ₽\n -33%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM360286": {
+    "title": "Товар",
+    "price": "1 880 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM360531": {
@@ -4884,19 +4849,19 @@
     "price": "850 500 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM370678": {
+    "title": "Товар",
+    "price": "3 120 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM372828": {
     "title": "Товар",
     "price": "140 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM360286": {
+  "https://collect.tsum.ru/item/ITEM276017": {
     "title": "Товар",
-    "price": "1 880 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM370678": {
-    "title": "Товар",
-    "price": "3 120 000 ₽",
+    "price": "699 500 ₽\n570 000 ₽\n -19%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377301": {
@@ -5124,14 +5089,14 @@
     "price": "426 000 ₽\n359 000 ₽\n -16%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM368164": {
-    "title": "Товар",
-    "price": "273 500 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM362163": {
     "title": "Товар",
     "price": "1 140 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM368164": {
+    "title": "Товар",
+    "price": "273 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377182": {
@@ -5199,6 +5164,11 @@
     "price": "99 500 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM377071": {
+    "title": "Товар",
+    "price": "3 300 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM377082": {
     "title": "Товар",
     "price": "950 000 ₽",
@@ -5212,11 +5182,6 @@
   "https://collect.tsum.ru/item/ITEM377053": {
     "title": "Товар",
     "price": "3 350 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377071": {
-    "title": "Товар",
-    "price": "3 300 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377008": {
@@ -5247,11 +5212,6 @@
   "https://collect.tsum.ru/item/ITEM376986": {
     "title": "Товар",
     "price": "299 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM376987": {
-    "title": "Товар",
-    "price": "261 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM376988": {
@@ -5359,11 +5319,6 @@
     "price": "225 000 ₽\n174 600 ₽\n -22%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM301835": {
-    "title": "Товар",
-    "price": "418 000 ₽\n188 550 ₽\n -55%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM344350": {
     "title": "Товар",
     "price": "443 000 ₽\n335 250 ₽\n -24%",
@@ -5372,6 +5327,11 @@
   "https://collect.tsum.ru/item/ITEM373685": {
     "title": "Товар",
     "price": "378 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM301835": {
+    "title": "Товар",
+    "price": "418 000 ₽\n188 550 ₽\n -55%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM376581": {
@@ -5537,11 +5497,6 @@
   "https://collect.tsum.ru/item/ITEM376309": {
     "title": "Товар",
     "price": "499 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM376295": {
-    "title": "Товар",
-    "price": "449 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM84332": {
@@ -5879,14 +5834,14 @@
     "price": "2 950 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM375650": {
-    "title": "Товар",
-    "price": "1 050 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM375647": {
     "title": "Товар",
     "price": "3 300 000 ₽\n799 500 ₽\n -76%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM375650": {
+    "title": "Товар",
+    "price": "1 050 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM367815": {
@@ -5984,14 +5939,14 @@
     "price": "831 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM370241": {
-    "title": "Товар",
-    "price": "531 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM369401": {
     "title": "Товар",
     "price": "1 620 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM370241": {
+    "title": "Товар",
+    "price": "531 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM375327": {
@@ -6039,6 +5994,11 @@
     "price": "135 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM375247": {
+    "title": "Товар",
+    "price": "850 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM375250": {
     "title": "Товар",
     "price": "3 600 000 ₽",
@@ -6052,11 +6012,6 @@
   "https://collect.tsum.ru/item/ITEM375246": {
     "title": "Товар",
     "price": "646 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM375247": {
-    "title": "Товар",
-    "price": "850 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM318958": {
@@ -6139,11 +6094,6 @@
     "price": "3 125 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM375005": {
-    "title": "Товар",
-    "price": "150 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM374997": {
     "title": "Товар",
     "price": "199 000 ₽\n169 000 ₽\n -15%",
@@ -6152,6 +6102,11 @@
   "https://collect.tsum.ru/item/ITEM374998": {
     "title": "Товар",
     "price": "166 000 ₽\n153 500 ₽\n -8%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM375005": {
+    "title": "Товар",
+    "price": "150 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM374944": {
@@ -6167,11 +6122,6 @@
   "https://collect.tsum.ru/item/ITEM369212": {
     "title": "Товар",
     "price": "359 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM374930": {
-    "title": "Товар",
-    "price": "330 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM370960": {
@@ -6289,6 +6239,11 @@
     "price": "370 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM374650": {
+    "title": "Товар",
+    "price": "550 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM374637": {
     "title": "Товар",
     "price": "3 200 000 ₽",
@@ -6297,11 +6252,6 @@
   "https://collect.tsum.ru/item/ITEM374645": {
     "title": "Товар",
     "price": "549 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM374650": {
-    "title": "Товар",
-    "price": "550 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM368017": {
@@ -6339,6 +6289,11 @@
     "price": "478 500 ₽\n299 500 ₽\n -37%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM374425": {
+    "title": "Товар",
+    "price": "348 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM374422": {
     "title": "Товар",
     "price": "175 000 ₽",
@@ -6347,11 +6302,6 @@
   "https://collect.tsum.ru/item/ITEM374424": {
     "title": "Товар",
     "price": "337 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM374425": {
-    "title": "Товар",
-    "price": "348 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM374415": {
@@ -6494,14 +6444,14 @@
     "price": "2 410 000 ₽\n599 500 ₽\n -75%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM286503": {
-    "title": "Товар",
-    "price": "110 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM281432": {
     "title": "Товар",
     "price": "210 500 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM286503": {
+    "title": "Товар",
+    "price": "110 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM373751": {
@@ -6524,14 +6474,14 @@
     "price": "154 000 ₽\n79 950 ₽\n -48%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM361661": {
-    "title": "Товар",
-    "price": "566 500 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM201040": {
     "title": "Товар",
     "price": "990 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM361661": {
+    "title": "Товар",
+    "price": "566 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM373660": {
@@ -6677,11 +6627,6 @@
   "https://collect.tsum.ru/item/ITEM345908": {
     "title": "Товар",
     "price": "240 500 ₽\n225 000 ₽\n -6%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM373203": {
-    "title": "Товар",
-    "price": "3 240 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM373204": {
@@ -6929,11 +6874,6 @@
     "price": "331 000 ₽\n218 500 ₽\n -34%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM251282": {
-    "title": "Товар",
-    "price": "239 500 ₽\n77 250 ₽\n -68%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM364415": {
     "title": "Товар",
     "price": "399 500 ₽",
@@ -6942,6 +6882,11 @@
   "https://collect.tsum.ru/item/ITEM367753": {
     "title": "Товар",
     "price": "110 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM251282": {
+    "title": "Товар",
+    "price": "239 500 ₽\n77 250 ₽\n -68%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM372523": {
@@ -7069,6 +7014,11 @@
     "price": "640 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM343250": {
+    "title": "Товар",
+    "price": "499 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM344230": {
     "title": "Товар",
     "price": "99 500 ₽\n86 650 ₽\n -13%",
@@ -7079,19 +7029,14 @@
     "price": "229 500 ₽\n161 500 ₽\n -30%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM366816": {
-    "title": "Товар",
-    "price": "486 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM343250": {
-    "title": "Товар",
-    "price": "499 500 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM355915": {
     "title": "Товар",
     "price": "2 385 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM366816": {
+    "title": "Товар",
+    "price": "486 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM372335": {
@@ -7204,11 +7149,6 @@
     "price": "265 500 ₽\n151 300 ₽\n -43%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM369774": {
-    "title": "Товар",
-    "price": "385 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM325375": {
     "title": "Товар",
     "price": "461 500 ₽",
@@ -7222,6 +7162,11 @@
   "https://collect.tsum.ru/item/ITEM369771": {
     "title": "Товар",
     "price": "568 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM369774": {
+    "title": "Товар",
+    "price": "385 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM372003": {
@@ -7264,9 +7209,9 @@
     "price": "265 500 ₽\n225 250 ₽\n -15%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM371943": {
+  "https://collect.tsum.ru/item/ITEM371886": {
     "title": "Товар",
-    "price": "430 000 ₽",
+    "price": "2 500 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM371887": {
@@ -7282,11 +7227,6 @@
   "https://collect.tsum.ru/item/ITEM371882": {
     "title": "Товар",
     "price": "460 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM371886": {
-    "title": "Товар",
-    "price": "2 500 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM371861": {
@@ -7689,14 +7629,14 @@
     "price": "350 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM370868": {
-    "title": "Товар",
-    "price": "1 430 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM370863": {
     "title": "Товар",
     "price": "2 855 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM370868": {
+    "title": "Товар",
+    "price": "1 430 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM370858": {
@@ -7729,14 +7669,14 @@
     "price": "360 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM370755": {
-    "title": "Товар",
-    "price": "699 500 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM370750": {
     "title": "Товар",
     "price": "650 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM370755": {
+    "title": "Товар",
+    "price": "699 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM255589": {
@@ -7754,14 +7694,14 @@
     "price": "485 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM369456": {
-    "title": "Товар",
-    "price": "343 500 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM363890": {
     "title": "Товар",
     "price": "2 695 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM369456": {
+    "title": "Товар",
+    "price": "343 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM370722": {
@@ -7794,6 +7734,11 @@
     "price": "423 500 ₽\n127 500 ₽\n -70%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM347213": {
+    "title": "Товар",
+    "price": "799 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM359156": {
     "title": "Товар",
     "price": "629 500 ₽",
@@ -7802,11 +7747,6 @@
   "https://collect.tsum.ru/item/ITEM370232": {
     "title": "Товар",
     "price": "2 250 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM347213": {
-    "title": "Товар",
-    "price": "799 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM73325": {
@@ -7854,6 +7794,11 @@
     "price": "319 000 ₽\n179 500 ₽\n -44%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM312324": {
+    "title": "Товар",
+    "price": "799 500 ₽\n647 500 ₽\n -19%",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM345527": {
     "title": "Товар",
     "price": "265 500 ₽\n252 000 ₽\n -5%",
@@ -7862,11 +7807,6 @@
   "https://collect.tsum.ru/item/ITEM345575": {
     "title": "Товар",
     "price": "236 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM312324": {
-    "title": "Товар",
-    "price": "799 500 ₽\n647 500 ₽\n -19%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM370321": {
@@ -7929,14 +7869,14 @@
     "price": "360 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM370049": {
-    "title": "Товар",
-    "price": "575 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM370048": {
     "title": "Товар",
     "price": "5 500 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM370049": {
+    "title": "Товар",
+    "price": "575 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM149431": {
@@ -7994,6 +7934,11 @@
     "price": "317 500 ₽\n161 500 ₽\n -49%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM296496": {
+    "title": "Товар",
+    "price": "477 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM302983": {
     "title": "Товар",
     "price": "718 500 ₽\n559 000 ₽\n -22%",
@@ -8012,11 +7957,6 @@
   "https://collect.tsum.ru/item/ITEM335641": {
     "title": "Товар",
     "price": "212 500 ₽\n174 000 ₽\n -18%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM296496": {
-    "title": "Товар",
-    "price": "477 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM369960": {
@@ -8119,11 +8059,6 @@
     "price": "375 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM179281": {
-    "title": "Товар",
-    "price": "544 000 ₽\n360 000 ₽\n -34%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM248427": {
     "title": "Товар",
     "price": "399 500 ₽",
@@ -8197,6 +8132,11 @@
   "https://collect.tsum.ru/item/ITEM359984": {
     "title": "Товар",
     "price": "249 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM179281": {
+    "title": "Товар",
+    "price": "544 000 ₽\n360 000 ₽\n -34%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM369448": {
@@ -8284,9 +8224,9 @@
     "price": "367 000 ₽\n320 000 ₽\n -13%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM248140": {
+  "https://collect.tsum.ru/item/ITEM248125": {
     "title": "Товар",
-    "price": "790 000 ₽",
+    "price": "1 400 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM303089": {
@@ -8304,11 +8244,6 @@
     "price": "790 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM350905": {
-    "title": "Товар",
-    "price": "310 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM350913": {
     "title": "Товар",
     "price": "790 000 ₽",
@@ -8324,9 +8259,14 @@
     "price": "3 700 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM248125": {
+  "https://collect.tsum.ru/item/ITEM248140": {
     "title": "Товар",
-    "price": "1 400 000 ₽",
+    "price": "790 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM350905": {
+    "title": "Товар",
+    "price": "310 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM368968": {
@@ -8459,14 +8399,14 @@
     "price": "224 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM368577": {
-    "title": "Товар",
-    "price": "255 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM368568": {
     "title": "Товар",
     "price": "6 430 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM368577": {
+    "title": "Товар",
+    "price": "255 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM368536": {
@@ -8794,14 +8734,14 @@
     "price": "193 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM367138": {
-    "title": "Товар",
-    "price": "460 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM367139": {
     "title": "Товар",
     "price": "515 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM367138": {
+    "title": "Товар",
+    "price": "460 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM367116": {
@@ -8814,14 +8754,14 @@
     "price": "689 500 ₽\n465 000 ₽\n -33%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM351866": {
-    "title": "Товар",
-    "price": "899 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM297533": {
     "title": "Товар",
     "price": "1 150 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM351866": {
+    "title": "Товар",
+    "price": "899 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM171044": {
@@ -9129,6 +9069,11 @@
     "price": "2 870 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM160963": {
+    "title": "Товар",
+    "price": "399 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM227319": {
     "title": "Товар",
     "price": "89 950 ₽\n35 000 ₽\n -61%",
@@ -9147,11 +9092,6 @@
   "https://collect.tsum.ru/item/ITEM356810": {
     "title": "Товар",
     "price": "1 200 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM160963": {
-    "title": "Товар",
-    "price": "399 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM366205": {
@@ -9199,6 +9139,11 @@
     "price": "1 995 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM366021": {
+    "title": "Товар",
+    "price": "945 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM366018": {
     "title": "Товар",
     "price": "933 000 ₽",
@@ -9212,11 +9157,6 @@
   "https://collect.tsum.ru/item/ITEM366020": {
     "title": "Товар",
     "price": "599 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM366021": {
-    "title": "Товар",
-    "price": "945 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM365970": {
@@ -9239,6 +9179,11 @@
     "price": "393 500 ₽\n330 000 ₽\n -16%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM221341": {
+    "title": "Товар",
+    "price": "1 460 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM260530": {
     "title": "Товар",
     "price": "651 500 ₽\n466 690 ₽\n -28%",
@@ -9257,11 +9202,6 @@
   "https://collect.tsum.ru/item/ITEM341190": {
     "title": "Товар",
     "price": "220 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM221341": {
-    "title": "Товар",
-    "price": "1 460 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM365823": {
@@ -9324,11 +9264,6 @@
     "price": "448 500 ₽\n319 500 ₽\n -29%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM283188": {
-    "title": "Товар",
-    "price": "265 500 ₽\n176 000 ₽\n -34%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM303616": {
     "title": "Товар",
     "price": "164 500 ₽\n139 500 ₽\n -15%",
@@ -9367,6 +9302,11 @@
   "https://collect.tsum.ru/item/ITEM307707": {
     "title": "Товар",
     "price": "299 500 ₽\n212 638 ₽\n -29%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM307868": {
+    "title": "Товар",
+    "price": "377 000 ₽\n317 000 ₽\n -16%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM309418": {
@@ -9444,9 +9384,9 @@
     "price": "417 500 ₽\n349 500 ₽\n -16%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM307868": {
+  "https://collect.tsum.ru/item/ITEM283188": {
     "title": "Товар",
-    "price": "377 000 ₽\n317 000 ₽\n -16%",
+    "price": "265 500 ₽\n176 000 ₽\n -34%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM365690": {
@@ -9514,6 +9454,11 @@
     "price": "141 000 ₽\n113 500 ₽\n -20%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM311628": {
+    "title": "Товар",
+    "price": "382 000 ₽\n341 500 ₽\n -11%",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM344681": {
     "title": "Товар",
     "price": "3 590 000 ₽",
@@ -9522,11 +9467,6 @@
   "https://collect.tsum.ru/item/ITEM358779": {
     "title": "Товар",
     "price": "495 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM311628": {
-    "title": "Товар",
-    "price": "382 000 ₽\n341 500 ₽\n -11%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM365378": {
@@ -9759,11 +9699,6 @@
     "price": "581 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM349718": {
-    "title": "Товар",
-    "price": "378 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM68642": {
     "title": "Товар",
     "price": "113 000 ₽\n73 300 ₽\n -35%",
@@ -9964,6 +9899,11 @@
     "price": "1 460 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM195012": {
+    "title": "Товар",
+    "price": "899 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM211501": {
     "title": "Товар",
     "price": "369 500 ₽\n216 000 ₽\n -42%",
@@ -9992,11 +9932,6 @@
   "https://collect.tsum.ru/item/ITEM360575": {
     "title": "Товар",
     "price": "439 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM195012": {
-    "title": "Товар",
-    "price": "899 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM69044": {
@@ -10034,11 +9969,6 @@
     "price": "325 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM287269": {
-    "title": "Товар",
-    "price": "774 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM333013": {
     "title": "Товар",
     "price": "297 000 ₽\n269 500 ₽\n -9%",
@@ -10052,6 +9982,11 @@
   "https://collect.tsum.ru/item/ITEM344870": {
     "title": "Товар",
     "price": "751 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM287269": {
+    "title": "Товар",
+    "price": "774 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM363460": {
@@ -10294,14 +10229,14 @@
     "price": "1 100 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM362011": {
-    "title": "Товар",
-    "price": "363 000 ₽\n270 000 ₽\n -26%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM362007": {
     "title": "Товар",
     "price": "549 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM362011": {
+    "title": "Товар",
+    "price": "363 000 ₽\n270 000 ₽\n -26%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM225258": {
@@ -10579,6 +10514,11 @@
     "price": "188 500 ₽\n69 250 ₽\n -63%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM269336": {
+    "title": "Товар",
+    "price": "895 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM275070": {
     "title": "Товар",
     "price": "1 350 000 ₽",
@@ -10607,11 +10547,6 @@
   "https://collect.tsum.ru/item/ITEM340904": {
     "title": "Товар",
     "price": "441 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM269336": {
-    "title": "Товар",
-    "price": "895 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM360941": {
@@ -11199,14 +11134,14 @@
     "price": "600 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM354110": {
-    "title": "Товар",
-    "price": "250 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM354135": {
     "title": "Товар",
     "price": "699 500 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM354110": {
+    "title": "Товар",
+    "price": "250 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM294516": {
@@ -11419,14 +11354,14 @@
     "price": "231 000 ₽\n184 000 ₽\n -20%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM351190": {
-    "title": "Товар",
-    "price": "124 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM351210": {
     "title": "Товар",
     "price": "327 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM351190": {
+    "title": "Товар",
+    "price": "124 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM351113": {
@@ -12169,6 +12104,11 @@
     "price": "1 350 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM291068": {
+    "title": "Товар",
+    "price": "866 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM290974": {
     "title": "Товар",
     "price": "1 350 000 ₽",
@@ -12177,11 +12117,6 @@
   "https://collect.tsum.ru/item/ITEM291016": {
     "title": "Товар",
     "price": "799 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM291068": {
-    "title": "Товар",
-    "price": "866 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM338422": {
@@ -12379,6 +12314,11 @@
     "price": "696 000 ₽\n405 900 ₽\n -42%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM335418": {
+    "title": "Товар",
+    "price": "3 085 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM335421": {
     "title": "Товар",
     "price": "2 900 000 ₽",
@@ -12387,11 +12327,6 @@
   "https://collect.tsum.ru/item/ITEM335413": {
     "title": "Товар",
     "price": "451 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM335418": {
-    "title": "Товар",
-    "price": "3 085 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM334695": {
@@ -12614,14 +12549,14 @@
     "price": "441 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM324241": {
-    "title": "Товар",
-    "price": "694 500 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM324225": {
     "title": "Товар",
     "price": "510 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM324241": {
+    "title": "Товар",
+    "price": "694 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM323866": {
@@ -12754,14 +12689,14 @@
     "price": "276 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM319724": {
-    "title": "Товар",
-    "price": "196 000 ₽\n140 250 ₽\n -28%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM319746": {
     "title": "Товар",
     "price": "192 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM319724": {
+    "title": "Товар",
+    "price": "196 000 ₽\n140 250 ₽\n -28%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM318902": {
@@ -13419,14 +13354,14 @@
     "price": "299 500 ₽\n185 500 ₽\n -38%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM256110": {
-    "title": "Товар",
-    "price": "885 500 ₽\n450 000 ₽\n -49%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM256152": {
     "title": "Товар",
     "price": "345 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM256110": {
+    "title": "Товар",
+    "price": "885 500 ₽\n450 000 ₽\n -49%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM256024": {
@@ -14234,14 +14169,14 @@
     "price": "517 000 ₽\n90 000 ₽\n -83%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM87612": {
-    "title": "Товар",
-    "price": "157 500 ₽\n123 000 ₽\n -22%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM87617": {
     "title": "Товар",
     "price": "249 500 ₽\n120 000 ₽\n -52%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM87612": {
+    "title": "Товар",
+    "price": "157 500 ₽\n123 000 ₽\n -22%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM87354": {
@@ -15059,11 +14994,6 @@
     "price": "699 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM379803": {
-    "title": "Товар",
-    "price": "655 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM99593": {
     "title": "Товар",
     "price": "512 500 ₽",
@@ -15092,11 +15022,6 @@
   "https://collect.tsum.ru/item/ITEM332615": {
     "title": "Товар",
     "price": "199 500 ₽\n104 000 ₽\n -48%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377258": {
-    "title": "Товар",
-    "price": "369 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377245": {
@@ -15352,6 +15277,11 @@
   "https://collect.tsum.ru/item/ITEM376653": {
     "title": "Товар",
     "price": "995 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM201760": {
+    "title": "Товар",
+    "price": "666 500 ₽\n252 000 ₽\n -62%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM201800": {
@@ -15704,6 +15634,11 @@
     "price": "299 500 ₽\n180 000 ₽\n -40%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM195994": {
+    "title": "Товар",
+    "price": "62 600 ₽\n38 000 ₽\n -39%",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM195999": {
     "title": "Товар",
     "price": "53 250 ₽\n40 000 ₽\n -25%",
@@ -15722,11 +15657,6 @@
   "https://collect.tsum.ru/item/ITEM196025": {
     "title": "Товар",
     "price": "62 600 ₽\n40 000 ₽\n -36%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM195994": {
-    "title": "Товар",
-    "price": "62 600 ₽\n38 000 ₽\n -39%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM193582": {
@@ -16304,6 +16234,11 @@
     "price": "43 650 ₽\n33 850 ₽\n -22%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM259540": {
+    "title": "Товар",
+    "price": "46 850 ₽\n29 950 ₽\n -36%",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM259546": {
     "title": "Товар",
     "price": "57 200 ₽\n33 750 ₽\n -41%",
@@ -16449,6 +16384,11 @@
     "price": "38 600 ₽\n8 639 ₽\n -78%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM376011": {
+    "title": "Товар",
+    "price": "85 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM376012": {
     "title": "Товар",
     "price": "57 400 ₽",
@@ -16467,11 +16407,6 @@
   "https://collect.tsum.ru/item/ITEM376007": {
     "title": "Товар",
     "price": "66 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM376011": {
-    "title": "Товар",
-    "price": "85 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM123150": {
@@ -16657,6 +16592,11 @@
   "https://collect.tsum.ru/item/ITEM324977": {
     "title": "Товар",
     "price": "42 950 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM194355": {
+    "title": "Товар",
+    "price": "25 950 ₽\n11 250 ₽\n -57%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM368782": {
@@ -17189,11 +17129,6 @@
     "price": "48 050 ₽\n39 500 ₽\n -18%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM244083": {
-    "title": "Товар",
-    "price": "55 650 ₽\n38 500 ₽\n -31%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM244022": {
     "title": "Товар",
     "price": "55 650 ₽\n32 450 ₽\n -42%",
@@ -17242,6 +17177,16 @@
   "https://collect.tsum.ru/item/ITEM221099": {
     "title": "Товар",
     "price": "38 600 ₽\n29 950 ₽\n -22%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM218504": {
+    "title": "Товар",
+    "price": "55 650 ₽\n43 950 ₽\n -21%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM218506": {
+    "title": "Товар",
+    "price": "49 950 ₽\n37 150 ₽\n -26%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM218446": {
@@ -17297,16 +17242,6 @@
   "https://collect.tsum.ru/item/ITEM218497": {
     "title": "Товар",
     "price": "43 600 ₽\n36 850 ₽\n -15%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM218504": {
-    "title": "Товар",
-    "price": "55 650 ₽\n43 950 ₽\n -21%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM218506": {
-    "title": "Товар",
-    "price": "49 950 ₽\n37 150 ₽\n -26%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM218431": {
@@ -17434,14 +17369,14 @@
     "price": "92 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM382031": {
-    "title": "Товар",
-    "price": "47 300 ₽\n35 000 ₽\n -26%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM382042": {
     "title": "Товар",
     "price": "384 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM382031": {
+    "title": "Товар",
+    "price": "47 300 ₽\n35 000 ₽\n -26%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM382020": {
@@ -17472,6 +17407,11 @@
   "https://collect.tsum.ru/item/ITEM359897": {
     "title": "Товар",
     "price": "69 300 ₽\n42 700 ₽\n -38%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM367268": {
+    "title": "Товар",
+    "price": "320 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM376349": {
@@ -17564,11 +17504,6 @@
     "price": "99 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380865": {
-    "title": "Товар",
-    "price": "99 500 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM382060": {
     "title": "Товар",
     "price": "157 000 ₽",
@@ -17577,6 +17512,11 @@
   "https://collect.tsum.ru/item/ITEM136707": {
     "title": "Товар",
     "price": "120 500 ₽\n49 800 ₽\n -59%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380865": {
+    "title": "Товар",
+    "price": "99 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380777": {
@@ -17639,9 +17579,9 @@
     "price": "161 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM379610": {
+  "https://collect.tsum.ru/item/ITEM379801": {
     "title": "Товар",
-    "price": "165 000 ₽",
+    "price": "299 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM379543": {
@@ -17699,11 +17639,6 @@
     "price": "323 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM378775": {
-    "title": "Товар",
-    "price": "97 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM368799": {
     "title": "Товар",
     "price": "160 000 ₽",
@@ -17754,6 +17689,11 @@
     "price": "74 700 ₽\n56 950 ₽\n -24%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM377682": {
+    "title": "Товар",
+    "price": "59 950 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM377661": {
     "title": "Товар",
     "price": "119 500 ₽\n55 000 ₽\n -54%",
@@ -17777,11 +17717,6 @@
   "https://collect.tsum.ru/item/ITEM377680": {
     "title": "Товар",
     "price": "124 000 ₽\n55 000 ₽\n -56%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377682": {
-    "title": "Товар",
-    "price": "59 950 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM304590": {
@@ -17974,6 +17909,16 @@
     "price": "170 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM375438": {
+    "title": "Товар",
+    "price": "170 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM369816": {
+    "title": "Товар",
+    "price": "138 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM358015": {
     "title": "Товар",
     "price": "69 950 ₽",
@@ -18132,11 +18077,6 @@
   "https://collect.tsum.ru/item/ITEM351774": {
     "title": "Товар",
     "price": "135 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM370884": {
-    "title": "Товар",
-    "price": "160 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM299947": {
@@ -18422,6 +18362,11 @@
   "https://collect.tsum.ru/item/ITEM358238": {
     "title": "Товар",
     "price": "230 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM358049": {
+    "title": "Товар",
+    "price": "135 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM357677": {
@@ -19004,11 +18949,6 @@
     "price": "75 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM377934": {
-    "title": "Товар",
-    "price": "70 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM382162": {
     "title": "Товар",
     "price": "69 250 ₽",
@@ -19149,11 +19089,6 @@
     "price": "99 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM375434": {
-    "title": "Товар",
-    "price": "352 000 ₽\n299 500 ₽\n -15%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM372953": {
     "title": "Товар",
     "price": "95 400 ₽",
@@ -19169,17 +19104,17 @@
     "price": "99 500 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM374476": {
+    "title": "Товар",
+    "price": "89 550 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM376226": {
     "title": "Товар",
     "price": "89 550 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM376235": {
-    "title": "Товар",
-    "price": "89 550 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM374476": {
     "title": "Товар",
     "price": "89 550 ₽",
     "in_stock": true
@@ -19452,11 +19387,6 @@
   "https://collect.tsum.ru/item/ITEM237728": {
     "title": "Товар",
     "price": "35 700 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM370608": {
-    "title": "Товар",
-    "price": "77 900 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM370611": {
@@ -19929,14 +19859,14 @@
     "price": "51 400 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM367237": {
-    "title": "Товар",
-    "price": "49 950 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM367247": {
     "title": "Товар",
     "price": "53 700 ₽\n49 950 ₽\n -7%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM367237": {
+    "title": "Товар",
+    "price": "49 950 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM61363": {
@@ -20794,16 +20724,6 @@
     "price": "216 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM374483": {
-    "title": "Товар",
-    "price": "79 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM376227": {
-    "title": "Товар",
-    "price": "62 950 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM373446": {
     "title": "Товар",
     "price": "85 000 ₽",
@@ -20812,6 +20732,16 @@
   "https://collect.tsum.ru/item/ITEM373629": {
     "title": "Товар",
     "price": "89 550 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM374483": {
+    "title": "Товар",
+    "price": "79 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM376227": {
+    "title": "Товар",
+    "price": "62 950 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM170168": {
@@ -20994,6 +20924,11 @@
     "price": "122 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM156559": {
+    "title": "Товар",
+    "price": "43 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM360746": {
     "title": "Товар",
     "price": "179 500 ₽",
@@ -21002,11 +20937,6 @@
   "https://collect.tsum.ru/item/ITEM378134": {
     "title": "Товар",
     "price": "67 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM156559": {
-    "title": "Товар",
-    "price": "43 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380218": {
@@ -21224,12 +21154,12 @@
     "price": "155 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM355502": {
+  "https://collect.tsum.ru/item/ITEM355506": {
     "title": "Товар",
     "price": "35 150 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM355506": {
+  "https://collect.tsum.ru/item/ITEM355502": {
     "title": "Товар",
     "price": "35 150 ₽",
     "in_stock": true
@@ -21302,6 +21232,11 @@
   "https://collect.tsum.ru/item/ITEM377034": {
     "title": "Товар",
     "price": "69 300 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM376980": {
+    "title": "Товар",
+    "price": "66 450 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM376555": {
@@ -21554,14 +21489,14 @@
     "price": "89 950 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM369981": {
-    "title": "Товар",
-    "price": "230 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM369987": {
     "title": "Товар",
     "price": "130 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM369981": {
+    "title": "Товар",
+    "price": "230 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM369598": {
@@ -21729,6 +21664,11 @@
     "price": "199 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM361089": {
+    "title": "Товар",
+    "price": "71 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM342232": {
     "title": "Товар",
     "price": "187 000 ₽",
@@ -21869,12 +21809,12 @@
     "price": "94 950 ₽\n86 250 ₽\n -9%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM336841": {
+  "https://collect.tsum.ru/item/ITEM336864": {
     "title": "Товар",
     "price": "53 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM336864": {
+  "https://collect.tsum.ru/item/ITEM336841": {
     "title": "Товар",
     "price": "53 000 ₽",
     "in_stock": true
@@ -21894,6 +21834,11 @@
     "price": "191 700 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM335377": {
+    "title": "Товар",
+    "price": "64 300 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM333933": {
     "title": "Товар",
     "price": "153 500 ₽",
@@ -21907,6 +21852,11 @@
   "https://collect.tsum.ru/item/ITEM328120": {
     "title": "Товар",
     "price": "85 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM328065": {
+    "title": "Товар",
+    "price": "69 950 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM318132": {
@@ -21925,6 +21875,11 @@
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM315118": {
+    "title": "Товар",
+    "price": "69 950 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM315122": {
     "title": "Товар",
     "price": "69 950 ₽",
     "in_stock": true
@@ -22239,12 +22194,12 @@
     "price": "165 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM381069": {
+  "https://collect.tsum.ru/item/ITEM381068": {
     "title": "Товар",
     "price": "109 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM381068": {
+  "https://collect.tsum.ru/item/ITEM381069": {
     "title": "Товар",
     "price": "109 000 ₽",
     "in_stock": true
@@ -22414,6 +22369,11 @@
     "price": "160 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM377644": {
+    "title": "Товар",
+    "price": "109 000 ₽\n49 000 ₽\n -55%",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM377646": {
     "title": "Товар",
     "price": "121 000 ₽\n49 000 ₽\n -60%",
@@ -22422,11 +22382,6 @@
   "https://collect.tsum.ru/item/ITEM377650": {
     "title": "Товар",
     "price": "97 900 ₽\n49 000 ₽\n -50%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377644": {
-    "title": "Товар",
-    "price": "109 000 ₽\n49 000 ₽\n -55%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM105504": {
@@ -22934,11 +22889,6 @@
     "price": "299 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM374326": {
-    "title": "Товар",
-    "price": "379 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM362474": {
     "title": "Товар",
     "price": "216 000 ₽",
@@ -23049,11 +22999,6 @@
     "price": "1 700 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380188": {
-    "title": "Товар",
-    "price": "385 000 ₽\n345 000 ₽\n -10%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM380144": {
     "title": "Товар",
     "price": "530 000 ₽",
@@ -23089,16 +23034,6 @@
     "price": "129 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM381580": {
-    "title": "Товар",
-    "price": "1 700 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM344136": {
-    "title": "Товар",
-    "price": "1 795 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM344325": {
     "title": "Товар",
     "price": "230 000 ₽",
@@ -23107,6 +23042,16 @@
   "https://collect.tsum.ru/item/ITEM332267": {
     "title": "Товар",
     "price": "320 500 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM381580": {
+    "title": "Товар",
+    "price": "1 700 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM344136": {
+    "title": "Товар",
+    "price": "1 795 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM378754": {
@@ -23319,11 +23264,6 @@
     "price": "375 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM156899": {
-    "title": "Товар",
-    "price": "265 500 ₽\n107 500 ₽\n -60%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM367248": {
     "title": "Товар",
     "price": "141 000 ₽\n89 950 ₽\n -36%",
@@ -23424,11 +23364,6 @@
     "price": "133 000 ₽\n126 500 ₽\n -5%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM311170": {
-    "title": "Товар",
-    "price": "179 500 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM346620": {
     "title": "Товар",
     "price": "176 000 ₽\n109 000 ₽\n -38%",
@@ -23447,11 +23382,6 @@
   "https://collect.tsum.ru/item/ITEM343615": {
     "title": "Товар",
     "price": "237 500 ₽\n185 000 ₽\n -22%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM343432": {
-    "title": "Товар",
-    "price": "188 500 ₽\n160 000 ₽\n -15%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM337510": {
@@ -23624,16 +23554,6 @@
     "price": "352 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM266464": {
-    "title": "Товар",
-    "price": "222 500 ₽\n120 000 ₽\n -46%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM277574": {
-    "title": "Товар",
-    "price": "196 000 ₽\n120 000 ₽\n -39%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM320730": {
     "title": "Товар",
     "price": "394 500 ₽",
@@ -23694,6 +23614,11 @@
     "price": "235 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM381420": {
+    "title": "Товар",
+    "price": "385 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM381404": {
     "title": "Товар",
     "price": "165 000 ₽",
@@ -23709,6 +23634,11 @@
     "price": "188 500 ₽\n115 000 ₽\n -39%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM266464": {
+    "title": "Товар",
+    "price": "222 500 ₽\n120 000 ₽\n -46%",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM381415": {
     "title": "Товар",
     "price": "1 700 000 ₽",
@@ -23717,11 +23647,6 @@
   "https://collect.tsum.ru/item/ITEM381416": {
     "title": "Товар",
     "price": "208 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM381420": {
-    "title": "Товар",
-    "price": "385 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM381376": {
@@ -23909,11 +23834,6 @@
     "price": "250 500 ₽\n161 550 ₽\n -36%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM322717": {
-    "title": "Товар",
-    "price": "156 743 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM322729": {
     "title": "Товар",
     "price": "150 300 ₽",
@@ -23927,6 +23847,11 @@
   "https://collect.tsum.ru/item/ITEM355017": {
     "title": "Товар",
     "price": "288 500 ₽\n234 908 ₽\n -19%",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM322717": {
+    "title": "Товар",
+    "price": "156 743 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM332265": {
@@ -24259,11 +24184,6 @@
     "price": "399 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM295852": {
-    "title": "Товар",
-    "price": "177 000 ₽\n168 000 ₽\n -5%",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM372299": {
     "title": "Товар",
     "price": "193 500 ₽",
@@ -24277,11 +24197,6 @@
   "https://collect.tsum.ru/item/ITEM71944": {
     "title": "Товар",
     "price": "199 500 ₽\n171 000 ₽\n -14%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM371754": {
-    "title": "Товар",
-    "price": "163 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM371636": {
@@ -24999,11 +24914,6 @@
     "price": "352 000 ₽\n285 000 ₽\n -19%",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM371938": {
-    "title": "Товар",
-    "price": "399 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM378148": {
     "title": "Товар",
     "price": "423 000 ₽",
@@ -25584,11 +25494,6 @@
     "price": "117 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM322298": {
-    "title": "Товар",
-    "price": "130 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM322035": {
     "title": "Товар",
     "price": "110 000 ₽",
@@ -25634,11 +25539,6 @@
     "price": "79 950 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM381918": {
-    "title": "Товар",
-    "price": "65 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM381690": {
     "title": "Товар",
     "price": "65 000 ₽",
@@ -25672,6 +25572,11 @@
   "https://collect.tsum.ru/item/ITEM353766": {
     "title": "Товар",
     "price": "56 500 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380329": {
+    "title": "Товар",
+    "price": "139 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380330": {
@@ -25722,11 +25627,6 @@
   "https://collect.tsum.ru/item/ITEM380327": {
     "title": "Товар",
     "price": "75 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM380329": {
-    "title": "Товар",
-    "price": "139 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380269": {
@@ -26404,17 +26304,17 @@
     "price": "69 950 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM319978": {
-    "title": "Товар",
-    "price": "69 950 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM319981": {
     "title": "Товар",
     "price": "83 600 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM319932": {
+    "title": "Товар",
+    "price": "69 950 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM319978": {
     "title": "Товар",
     "price": "69 950 ₽",
     "in_stock": true
@@ -26889,11 +26789,6 @@
     "price": "354 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM378795": {
-    "title": "Товар",
-    "price": "385 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM378796": {
     "title": "Товар",
     "price": "323 000 ₽",
@@ -26904,9 +26799,19 @@
     "price": "355 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM377231": {
+  "https://collect.tsum.ru/item/ITEM377247": {
     "title": "Товар",
-    "price": "191 000 ₽",
+    "price": "397 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM377248": {
+    "title": "Товар",
+    "price": "375 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM377227": {
+    "title": "Товар",
+    "price": "399 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377232": {
@@ -26917,6 +26822,11 @@
   "https://collect.tsum.ru/item/ITEM377233": {
     "title": "Товар",
     "price": "266 500 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM378795": {
+    "title": "Товар",
+    "price": "385 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377234": {
@@ -26934,16 +26844,6 @@
     "price": "390 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM377247": {
-    "title": "Товар",
-    "price": "397 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377248": {
-    "title": "Товар",
-    "price": "375 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM377213": {
     "title": "Товар",
     "price": "315 500 ₽",
@@ -26954,6 +26854,11 @@
     "price": "355 500 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM377231": {
+    "title": "Товар",
+    "price": "191 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM377222": {
     "title": "Товар",
     "price": "272 500 ₽",
@@ -26962,11 +26867,6 @@
   "https://collect.tsum.ru/item/ITEM377223": {
     "title": "Товар",
     "price": "314 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377227": {
-    "title": "Товар",
-    "price": "399 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM376561": {
@@ -27019,17 +26919,17 @@
     "price": "297 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM375616": {
+    "title": "Товар",
+    "price": "399 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM375619": {
     "title": "Товар",
     "price": "399 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM375621": {
-    "title": "Товар",
-    "price": "399 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM375616": {
     "title": "Товар",
     "price": "399 500 ₽",
     "in_stock": true
@@ -27044,14 +26944,14 @@
     "price": "420 000 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM373481": {
-    "title": "Товар",
-    "price": "189 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM373491": {
     "title": "Товар",
     "price": "265 000 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM373481": {
+    "title": "Товар",
+    "price": "189 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM371932": {
@@ -27062,6 +26962,11 @@
   "https://collect.tsum.ru/item/ITEM370240": {
     "title": "Товар",
     "price": "99 500 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM366955": {
+    "title": "Товар",
+    "price": "415 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM366957": {
@@ -27075,11 +26980,6 @@
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM366962": {
-    "title": "Товар",
-    "price": "415 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM366955": {
     "title": "Товар",
     "price": "415 500 ₽",
     "in_stock": true
@@ -27449,6 +27349,11 @@
     "price": "64 350 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM381418": {
+    "title": "Товар",
+    "price": "173 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM381406": {
     "title": "Товар",
     "price": "114 500 ₽",
@@ -27462,11 +27367,6 @@
   "https://collect.tsum.ru/item/ITEM381408": {
     "title": "Товар",
     "price": "110 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM381418": {
-    "title": "Товар",
-    "price": "173 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM381285": {
@@ -27554,6 +27454,11 @@
     "price": "230 000 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM380264": {
+    "title": "Товар",
+    "price": "135 000 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM380262": {
     "title": "Товар",
     "price": "124 950 ₽",
@@ -27562,11 +27467,6 @@
   "https://collect.tsum.ru/item/ITEM380263": {
     "title": "Товар",
     "price": "147 000 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM380264": {
-    "title": "Товар",
-    "price": "135 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380259": {
@@ -28414,6 +28314,11 @@
     "price": "79 950 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM381090": {
+    "title": "Товар",
+    "price": "41 500 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM381095": {
     "title": "Товар",
     "price": "39 950 ₽",
@@ -28467,11 +28372,6 @@
   "https://collect.tsum.ru/item/ITEM381086": {
     "title": "Товар",
     "price": "37 500 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM381090": {
-    "title": "Товар",
-    "price": "41 500 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM380976": {
@@ -28559,16 +28459,6 @@
     "price": "99 500 ₽",
     "in_stock": true
   },
-  "https://collect.tsum.ru/item/ITEM380055": {
-    "title": "Товар",
-    "price": "69 950 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM380061": {
-    "title": "Товар",
-    "price": "75 000 ₽",
-    "in_stock": true
-  },
   "https://collect.tsum.ru/item/ITEM380046": {
     "title": "Товар",
     "price": "105 000 ₽",
@@ -28577,6 +28467,16 @@
   "https://collect.tsum.ru/item/ITEM380048": {
     "title": "Товар",
     "price": "75 400 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380055": {
+    "title": "Товар",
+    "price": "69 950 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM380061": {
+    "title": "Товар",
+    "price": "75 000 ₽",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM334842": {
@@ -28754,6 +28654,26 @@
     "price": "152 500 ₽",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM377631": {
+    "title": "Товар",
+    "price": "79 950 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM377602": {
+    "title": "Товар",
+    "price": "89 950 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM377603": {
+    "title": "Товар",
+    "price": "89 950 ₽",
+    "in_stock": true
+  },
+  "https://collect.tsum.ru/item/ITEM377605": {
+    "title": "Товар",
+    "price": "89 950 ₽",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM377610": {
     "title": "Товар",
     "price": "69 950 ₽",
@@ -28790,26 +28710,6 @@
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM377629": {
-    "title": "Товар",
-    "price": "89 950 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377631": {
-    "title": "Товар",
-    "price": "79 950 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377602": {
-    "title": "Товар",
-    "price": "89 950 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377603": {
-    "title": "Товар",
-    "price": "89 950 ₽",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM377605": {
     "title": "Товар",
     "price": "89 950 ₽",
     "in_stock": true
@@ -29309,17 +29209,17 @@
     "price": "464 500 ₽\n154 000 ₽\n -67%",
     "in_stock": true
   },
+  "https://collect.tsum.ru/item/ITEM367583": {
+    "title": "Товар",
+    "price": "69 300 ₽\n65 000 ₽\n -6%",
+    "in_stock": true
+  },
   "https://collect.tsum.ru/item/ITEM367588": {
     "title": "Товар",
     "price": "69 300 ₽\n65 000 ₽\n -6%",
     "in_stock": true
   },
   "https://collect.tsum.ru/item/ITEM367582": {
-    "title": "Товар",
-    "price": "69 300 ₽\n65 000 ₽\n -6%",
-    "in_stock": true
-  },
-  "https://collect.tsum.ru/item/ITEM367583": {
     "title": "Товар",
     "price": "69 300 ₽\n65 000 ₽\n -6%",
     "in_stock": true
